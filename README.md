@@ -39,7 +39,7 @@ And add this to your module's `build.gradle`
 
 ```groovy
 dependencies {
-	implementation 'com.github.esafirm.android-image-picker:imagepicker:x.y.z'
+	implementation 'com.github.esafirm.android-image-picker:x.y.z'
 	// If you have a problem with Glide, please use the same Glide version or simply open an issue
 	implementation 'com.github.bumptech.glide:glide:4.5.0'
 }
